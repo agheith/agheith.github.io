@@ -1,0 +1,21 @@
+{
+  "name": "another-one",
+  "authors": [
+    "agheith <amerghth@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "scroll-js": "scroll#^1.5.1"
+  }
+}

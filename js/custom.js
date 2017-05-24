@@ -15,10 +15,10 @@
 
 
         // jquery backstretch slideshow
-        // $("#home").backstretch([
-        //   "images/home-bg-slideshow-image1.jpg",
-        //   "images/home-bg-slideshow-image2.jpg"
-        //   ], {duration: 2000, fade: 750});
+        $("#home").backstretch([
+          "images/developer1.jpg",
+          "images/developer2.jpg"
+          ], {duration: 2000, fade: 750});
 
 
         // smoothscroll js

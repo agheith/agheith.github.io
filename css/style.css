@@ -37,6 +37,7 @@ body {
     font-style: normal;
     font-weight: normal;
     overflow-x: hidden;
+    text-align: justify;
 }
 
 html, body {
